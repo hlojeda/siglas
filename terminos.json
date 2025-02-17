@@ -16,7 +16,7 @@
       ]
   },
   {
-      "termino": "UCINO*",
+      "termino": "UCI**",
       "significado": [
           "EXAMEN FÍSICO CON EPP, luce en BUENAS CONDICIONES GENERALES.",
           "mucosas: húmedas",
@@ -30,7 +30,7 @@
       ]
   },
   {
-      "termino": "UCINOVM*",
+      "termino": "UCIVM**",
       "significado": [
           "EXAMEN FÍSICO CON EPP, luce en malas CONDICIONES GENERALES.",
           "mucosas: húmedas",
@@ -44,7 +44,7 @@
       ]
   },
    {
-      "termino": "UCINOVMVASO*",
+      "termino": "UCIVMVASO**",
       "significado": [
           "EXAMEN FÍSICO CON EPP, luce en malas CONDICIONES GENERALES.",
           "CON VASOACTIVO",
