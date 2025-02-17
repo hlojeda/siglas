@@ -30,6 +30,34 @@
       ]
   },
   {
+      "termino": "UCINOVM*",
+      "significado": [
+          "EXAMEN FÍSICO CON EPP, luce en malas CONDICIONES GENERALES.",
+          "mucosas: húmedas",
+          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
+          "pulmonar: en respirador  ac/vc fio2=  peep=  , SATURACIÓN DEL 97%",
+          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "glucometrias:   mg/dl",
+          "diuresis:   ml/h",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: en sedoanalgesia , rass -3"
+      ]
+  },
+   {
+      "termino": "UCINOVMVASO*",
+      "significado": [
+          "EXAMEN FÍSICO CON EPP, luce en malas CONDICIONES GENERALES.",
+          "CON VASOACTIVO",
+          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
+          "pulmonar: en respirador  ac/vc fio2=  peep=  , SATURACIÓN DEL 97%",
+          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "glucometrias:   mg/dl",
+          "diuresis:   ml/h",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: en sedoanalgesia , rass -3"
+      ]
+  },
+  {
       "termino": "gend*",
       "significado": [
           "EXAMEN FÍSICO CON EPP, luce en regulares CONDICIONES GENERALES.",
