@@ -16,6 +16,18 @@
       ]
   },
   {
+      "termino": "UCINO*",
+      "significado": [
+          "EXAMEN FÍSICO CON EPP, luce en BUENAS CONDICIONES GENERALES.",
+          "mucosas: húmedas",
+          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
+          "pulmonar: RESPIRA OXÍGENO AL AMBIENTE, SATURACIÓN DEL 97%",
+          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades"
+      ]
+  },
+  {
       "termino": "gend*",
       "significado": [
           "EXAMEN FÍSICO CON EPP, luce en regulares CONDICIONES GENERALES.",
