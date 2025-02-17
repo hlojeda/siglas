@@ -4,181 +4,27 @@
       "significado": "Tomografía Axial Computarizada"
   },
   {
-      "termino": "EF*",
-      "significado": [
-          "EXAMEN FÍSICO CON EPP, luce en BUENAS CONDICIONES GENERALES.",
-          "mucosas: húmedas",
-          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
-          "pulmonar: murmullo vesicular limpio en ambos campos pulmonares",
-          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
-          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
-          "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades"
-      ]
+      "termino": "EL TAC",
+      "significado": "La Tomografía Axial Computarizada"
   },
   {
-      "termino": "UCI*",
-      "significado": [
-          "EXAMEN FÍSICO CON EPP, luce en BUENAS CONDICIONES GENERALES.",
-          "mucosas: húmedas",
-          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
-          "pulmonar: RESPIRA OXÍGENO AL AMBIENTE, SATURACIÓN DEL 97%",
-          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
-          "glucometrias:   mg/dl",
-          "diuresis:   ml/h",
-          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
-          "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades"
-      ]
+      "termino": "TAG",
+      "significado": "Tomografía Axial Computarizada"
   },
   {
-      "termino": "UCIVM*",
-      "significado": [
-          "EXAMEN FÍSICO CON EPP, luce en malas CONDICIONES GENERALES.",
-          "mucosas: húmedas",
-          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
-          "pulmonar: en respirador  ac/vc fio2=  peep=  , SATURACIÓN DEL 97%",
-          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
-          "glucometrias:   mg/dl",
-          "diuresis:   ml/h",
-          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
-          "neurologico: en sedoanalgesia , rass -3"
-      ]
-  },
-   {
-      "termino": "UCIVASO*",
-      "significado": [
-          "EXAMEN FÍSICO CON EPP, luce en malas CONDICIONES GENERALES.",
-          "CON VASOACTIVO",
-          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
-          "pulmonar: en respirador  ac/vc fio2=  peep=  , SATURACIÓN DEL 97%",
-          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
-          "glucometrias:   mg/dl",
-          "diuresis:   ml/h",
-          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
-          "neurologico: en sedoanalgesia , rass -3"
-      ]
+      "termino": "EL TAG",
+      "significado": "La Tomografía Axial Computarizada"
   },
   {
-      "termino": "gend*",
-      "significado": [
-          "EXAMEN FÍSICO CON EPP, luce en regulares CONDICIONES GENERALES.",
-          "mucosas: húmedas",
-          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
-          "pulmonar: murmullo vesicular limpio en ambos campos pulmonares",
-          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
-          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
-          "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades"
-      ]
-  },
-  {
-      "termino": "pulmone*",
-      "significado": [
-          "EXAMEN FÍSICO CON EPP, luce en regulares CONDICIONES GENERALES.",
-          "mucosas: humedas",
-          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
-          "pulmonar: se auscultan estertores en ambos campos pulmonares",
-          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
-          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
-          "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades"
-      ]
-  },
-  {
-      "termino": "pulmonb*",
-      "significado": [
-          "EXAMEN FÍSICO CON EPP, luce en regulares CONDICIONES GENERALES.",
-          "mucosas: humedas",
-          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
-          "pulmonar: murmullo vesicular disminuido con broncoespasmo en ambos campos pulmonares",
-          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
-          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
-          "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades"
-      ]
-  },
-  {
-      "termino": "pulmonr*",
-      "significado": [
-          "EXAMEN FÍSICO CON EPP, luce en regulares CONDICIONES GENERALES.",
-          "mucosas: humedas",
-          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
-          "pulmonar: se auscultan roncus en ambos campos pulmonares",
-          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
-          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
-          "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades"
-      ]
-  },
-  {
-      "termino": "corazont*",
-      "significado": [
-          "EXAMEN FÍSICO CON EPP, luce en regulares CONDICIONES GENERALES.",
-          "mucosas: humedas",
-          "cardiaco: ruidos cardiacos rítmicos, taquicárdicos, sin sobreagregados",
-          "pulmonar: murmullo vesicular limpio en ambos campos pulmonares",
-          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
-          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
-          "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades"
-      ]
-  },
-  {
-      "termino": "corazonf*",
-      "significado": [
-          "EXAMEN FÍSICO CON EPP, luce en regulares CONDICIONES GENERALES.",
-          "mucosas: humedas",
-          "cardiaco: ruidos cardiacos arrítmicos, respuesta rápida, sin sobreagregados",
-          "pulmonar: murmullo vesicular disminuido con broncoespasmo en ambos campos pulmonares",
-          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
-          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
-          "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades"
-      ]
-  },
-  {
-      "termino": "abdomena*",
-      "significado": [
-          "EXAMEN FÍSICO CON EPP, luce en regulares CONDICIONES GENERALES.",
-          "mucosas: humedas",
-          "cardiaco: ruidos cardiacos arrítmicos, respuesta rápida, sin sobreagregados",
-          "pulmonar: murmullo vesicular disminuido con broncoespasmo en ambos campos pulmonares",
-          "abdomen: globoso, onda ascítica positiva",
-          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
-          "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades"
-      ]
-  },
-  {
-      "termino": "cerebros*",
-      "significado": [
-          "EXAMEN FÍSICO CON EPP, luce en REGULARES CONDICIONES GENERALES.",
-          "mucosas: húmedas",
-          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
-          "pulmonar: murmullo vesicular limpio en ambos campos pulmonares",
-          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
-          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
-          "neurologico: somnolencia, sin déficit motor ni sensitivo aparentes"
-      ]
-  },
-  {
-      "termino": "cerebrod*",
-      "significado": [
-          "EXAMEN FÍSICO CON EPP, luce en REGULARES CONDICIONES GENERALES.",
-          "mucosas: húmedas",
-          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
-          "pulmonar: murmullo vesicular limpio en ambos campos pulmonares",
-          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
-          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
-          "neurologico: desorientación, sin déficit motor ni sensitivo aparentes"
-      ]
-  },
-  {
-      "termino": "cerebroe*",
-      "significado": [
-          "EXAMEN FÍSICO CON EPP, luce en BUENAS CONDICIONES GENERALES.",
-          "mucosas: húmedas",
-          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
-          "pulmonar: murmullo vesicular limpio en ambos campos pulmonares",
-          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
-          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
-          "neurologico: estupor, respuesta al dolor"
-      ]
+      "termino": "COLANGIORMN",
+      "significado": "Colangio Resonancia"
   },
   {
       "termino": "ECG",
+      "significado": "Electrocardiograma"
+  },
+  {
+      "termino": "EKG",
       "significado": "Electrocardiograma"
   },
   {
@@ -497,6 +343,10 @@
       "termino": "ampicilina mas sulbactam",
       "significado": "ampicilina/sulbactam"
   },
+   {
+      "termino": "ampicilina sulbactam",
+      "significado": "ampicilina/sulbactam"
+  },
   {
       "termino": "ampicilina sulbactam",
       "significado": "ampicilina/sulbactam"
@@ -531,6 +381,10 @@
   },
   {
       "termino": "iperacilina",
+      "significado": "piperacilina/tazobactam"
+  },
+  {
+      "termino": "piperacilina tazobactam",
       "significado": "piperacilina/tazobactam"
   },
   {
