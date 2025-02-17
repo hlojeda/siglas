@@ -1,0 +1,498 @@
+[
+  {
+      "termino": "TAC",
+      "significado": "Tomografía Axial Computarizada"
+  },
+  {
+      "termino": "EF*",
+      "significado": [
+          "EXAMEN FÍSICO CON EPP, luce en BUENAS CONDICIONES GENERALES.",
+          "mucosas: húmedas",
+          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
+          "pulmonar: murmullo vesicular limpio en ambos campos pulmonares",
+          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades"
+      ]
+  },
+  {
+      "termino": "gend*",
+      "significado": [
+          "EXAMEN FÍSICO CON EPP, luce en regulares CONDICIONES GENERALES.",
+          "mucosas: húmedas",
+          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
+          "pulmonar: murmullo vesicular limpio en ambos campos pulmonares",
+          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades"
+      ]
+  },
+  {
+      "termino": "pulmone*",
+      "significado": [
+          "EXAMEN FÍSICO CON EPP, luce en regulares CONDICIONES GENERALES.",
+          "mucosas: humedas",
+          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
+          "pulmonar: se auscultan estertores en ambos campos pulmonares",
+          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades"
+      ]
+  },
+  {
+      "termino": "pulmonb*",
+      "significado": [
+          "EXAMEN FÍSICO CON EPP, luce en regulares CONDICIONES GENERALES.",
+          "mucosas: humedas",
+          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
+          "pulmonar: murmullo vesicular disminuido con broncoespasmo en ambos campos pulmonares",
+          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades"
+      ]
+  },
+  {
+      "termino": "pulmonr*",
+      "significado": [
+          "EXAMEN FÍSICO CON EPP, luce en regulares CONDICIONES GENERALES.",
+          "mucosas: humedas",
+          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
+          "pulmonar: se auscultan roncus en ambos campos pulmonares",
+          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades"
+      ]
+  },
+  {
+      "termino": "corazont*",
+      "significado": [
+          "EXAMEN FÍSICO CON EPP, luce en regulares CONDICIONES GENERALES.",
+          "mucosas: humedas",
+          "cardiaco: ruidos cardiacos rítmicos, taquicárdicos, sin sobreagregados",
+          "pulmonar: murmullo vesicular limpio en ambos campos pulmonares",
+          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades"
+      ]
+  },
+  {
+      "termino": "corazonf*",
+      "significado": [
+          "EXAMEN FÍSICO CON EPP, luce en regulares CONDICIONES GENERALES.",
+          "mucosas: humedas",
+          "cardiaco: ruidos cardiacos arrítmicos, respuesta rápida, sin sobreagregados",
+          "pulmonar: murmullo vesicular disminuido con broncoespasmo en ambos campos pulmonares",
+          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades"
+      ]
+  },
+  {
+      "termino": "abdomena*",
+      "significado": [
+          "EXAMEN FÍSICO CON EPP, luce en regulares CONDICIONES GENERALES.",
+          "mucosas: humedas",
+          "cardiaco: ruidos cardiacos arrítmicos, respuesta rápida, sin sobreagregados",
+          "pulmonar: murmullo vesicular disminuido con broncoespasmo en ambos campos pulmonares",
+          "abdomen: globoso, onda ascítica positiva",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades"
+      ]
+  },
+  {
+      "termino": "cerebros*",
+      "significado": [
+          "EXAMEN FÍSICO CON EPP, luce en REGULARES CONDICIONES GENERALES.",
+          "mucosas: húmedas",
+          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
+          "pulmonar: murmullo vesicular limpio en ambos campos pulmonares",
+          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: somnolencia, sin déficit motor ni sensitivo aparentes"
+      ]
+  },
+  {
+      "termino": "cerebrod*",
+      "significado": [
+          "EXAMEN FÍSICO CON EPP, luce en REGULARES CONDICIONES GENERALES.",
+          "mucosas: húmedas",
+          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
+          "pulmonar: murmullo vesicular limpio en ambos campos pulmonares",
+          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: desorientación, sin déficit motor ni sensitivo aparentes"
+      ]
+  },
+  {
+      "termino": "cerebroe*",
+      "significado": [
+          "EXAMEN FÍSICO CON EPP, luce en BUENAS CONDICIONES GENERALES.",
+          "mucosas: húmedas",
+          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
+          "pulmonar: murmullo vesicular limpio en ambos campos pulmonares",
+          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: estupor, respuesta al dolor"
+      ]
+  },
+  {
+      "termino": "ECG",
+      "significado": "Electrocardiograma"
+  },
+  {
+      "termino": "mc",
+      "significado": "motivo de consulta"
+  },
+  {
+      "termino": "ea",
+      "significado": "enfermedad actual"
+  },
+  {
+      "termino": "enf",
+      "significado": "enfermedad"
+  },
+  {
+      "termino": "pop",
+      "significado": "postoperatorio"
+  },
+  {
+      "termino": "postqx",
+      "significado": "postquirúrgico"
+  },
+  {
+      "termino": "pte",
+      "significado": "paciente"
+  },
+  {
+      "termino": "idx",
+      "significado": "impresion diagnóstica"
+  },
+  {
+      "termino": "dx",
+      "significado": "diagnóstico"
+  },
+  {
+      "termino": "dxs",
+      "significado": "diagnósticos"
+  },
+  {
+      "termino": "tto",
+      "significado": "tratamiento"
+  },
+  {
+      "termino": "tx",
+      "significado": "tratamiento"
+  },
+  {
+      "termino": "sx",
+      "significado": "síndrome"
+  },
+  {
+      "termino": "sd",
+      "significado": "síndrome"
+  },
+  {
+      "termino": "abx",
+      "significado": "antibiótico"
+  },
+  {
+      "termino": "qx",
+      "significado": "cirugía"
+  },
+  {
+      "termino": "Cx",
+      "significado": "cirugía"
+  },
+  {
+      "termino": "bx",
+      "significado": "biopsia"
+  },
+  {
+      "termino": "qt",
+      "significado": "quimioterapia"
+  },
+  {
+      "termino": "qtx",
+      "significado": "quimioterapia"
+  },
+  {
+      "termino": "rt",
+      "significado": "radioterapia"
+  },
+  {
+      "termino": "rtx",
+      "significado": "radioterapia"
+  },
+  {
+      "termino": "ots",
+      "significado": "osteosíntesis"
+  },
+  {
+      "termino": "fx",
+      "significado": "fractura"
+  },
+  {
+      "termino": "sny",
+      "significado": "sonda nasoyeyunal"
+  },
+  {
+      "termino": "sng",
+      "significado": "sonda nasogástrica"
+  },
+  {
+      "termino": "net",
+      "significado": "nutrición enteral"
+  },
+  {
+      "termino": "tpn",
+      "significado": "nutrición parenteral"
+  },
+  {
+      "termino": "ss",
+      "significado": "se solicita"
+  },
+  {
+      "termino": "P+",
+      "significado": "peristaltismo presente"
+  },
+  {
+      "termino": "mv",
+      "significado": "murmullo vesicular"
+  },
+  {
+      "termino": "rscsrs",
+      "significado": "ruidos cardíacos rítmicos"
+  },
+  {
+      "termino": "lab",
+      "significado": "laboratorio"
+  },
+  {
+      "termino": "y nr",
+      "significado": "inr"
+  },
+  {
+      "termino": "ynr",
+      "significado": "inr"
+  },
+  {
+      "termino": "e icc",
+      "significado": "y falla cardíaca"
+  },
+  {
+      "termino": "HTA",
+      "significado": "hipertensión arterial"
+  },
+  {
+      "termino": "htp",
+      "significado": "hipertensión pulmonar"
+  },
+  {
+      "termino": "HTE",
+      "significado": "hipertensión endocraneana"
+  },
+  {
+      "termino": "dm",
+      "significado": "diabetes"
+  },
+  {
+      "termino": "dm2",
+      "significado": "diabetes tipo 2"
+  },
+  {
+      "termino": "dm 2",
+      "significado": "diabetes tipo 2"
+  },
+  {
+      "termino": "dm1",
+      "significado": "diabetes tipo 1"
+  },
+  {
+      "termino": "dm 1",
+      "significado": "diabetes tipo 1"
+  },
+  {
+      "termino": "cad",
+      "significado": "cetoacidosis diabética"
+  },
+  {
+      "termino": "iam",
+      "significado": "infarto agudo de miocardio"
+  },
+  {
+      "termino": "im",
+      "significado": "infarto agudo de miocardio"
+  },
+  {
+      "termino": "tgi",
+      "significado": "tracto gastrointestinal"
+  },
+  {
+      "termino": "evda",
+      "significado": "endoscopia digestiva alta"
+  },
+  {
+      "termino": "egd",
+      "significado": "endoscopia gastroduodenal"
+  },
+  {
+      "termino": "ca",
+      "significado": "cáncer"
+  },
+  {
+      "termino": "ca.",
+      "significado": "cáncer"
+  },
+  {
+      "termino": "cag",
+      "significado": "adenocarcinoma gastrico"
+  },
+  {
+      "termino": "tbc",
+      "significado": "tuberculosis"
+  },
+  {
+      "termino": "tb",
+      "significado": "tuberculosis"
+  },
+  {
+      "termino": "LLA",
+      "significado": "leucemia linfocítica aguda"
+  },
+  {
+      "termino": "LLC",
+      "significado": "leucemia linfocítica crónica"
+  },
+  {
+      "termino": "LMA",
+      "significado": "leucemia mieloide aguda"
+  },
+  {
+      "termino": "LMC",
+      "significado": "leucemia mieloide crónica"
+  },
+  {
+      "termino": "fa",
+      "significado": "fibrilación auricular"
+  },
+  {
+      "termino": "rta",
+      "significado": "respuesta"
+  },
+  {
+      "termino": "icc",
+      "significado": "falla cardíaca"
+  },
+  {
+      "termino": "irc",
+      "significado": "insuficiencia renal crónica"
+  },
+  {
+      "termino": "erc",
+      "significado": "insuficiencia renal crónica"
+  },
+  {
+      "termino": "eI",
+      "significado": "estadío 1"
+  },
+  {
+      "termino": "eII",
+      "significado": "estadío 2"
+  },
+  {
+      "termino": "eIII",
+      "significado": "estadío 3"
+  },
+  {
+      "termino": "eIV",
+      "significado": "estadío 4"
+  },
+  {
+      "termino": "erc ev",
+      "significado": "insuficiencia renal crónica estadío 5"
+  },
+  {
+      "termino": "irc ev",
+      "significado": "insuficiencia renal crónica estadío 5"
+  },
+  {
+      "termino": "the",
+      "significado": "transtorno hidroelectrolítico"
+  },
+  {
+      "termino": "EV",
+      "significado": "endovenoso"
+  },
+  {
+      "termino": "vo",
+      "significado": "via oral"
+  },
+  {
+      "termino": "meronem",
+      "significado": "meropenem"
+  },
+  {
+      "termino": "bancomicina",
+      "significado": "vancomicina"
+  },
+  {
+      "termino": "ampisulb",
+      "significado": "ampicilina/sulbactam"
+  },
+  {
+      "termino": "ampisulba",
+      "significado": "ampicilina/sulbactam"
+  },
+  {
+      "termino": "ampisulbactam",
+      "significado": "ampicilina/sulbactam"
+  },
+  {
+      "termino": "ampi sulbactam",
+      "significado": "ampicilina/sulbactam"
+  },
+  {
+      "termino": "ampicilina mas sulbactam",
+      "significado": "ampicilina/sulbactam"
+  },
+  {
+      "termino": "ampicilina sulbactam",
+      "significado": "ampicilina/sulbactam"
+  },
+  {
+      "termino": "el piptazo",
+      "significado": "la piperacilina/tazobactam"
+  },
+  {
+      "termino": "piptazo",
+      "significado": "piperacilina/tazobactam"
+  },
+  {
+      "termino": "pitazo",
+      "significado": "piperacilina/tazobactam"
+  },
+  {
+      "termino": "pipetazo",
+      "significado": "piperacilina/tazobactam"
+  },
+  {
+      "termino": "Hiperacilina mas tazobactam",
+      "significado": "piperacilina/tazobactam"
+  },
+  {
+      "termino": "iperacilina mas tazobactam",
+      "significado": "piperacilina/tazobactam"
+  },
+  {
+      "termino": "Hiperacilina",
+      "significado": "piperacilina/tazobactam"
+  },
+  {
+      "termino": "iperacilina",
+      "significado": "piperacilina/tazobactam"
+  },
+  {
+      "termino": "piperacilina mas tazobactam",
+      "significado": "piperacilina/tazobactam"
+  }
+]
