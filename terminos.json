@@ -232,6 +232,10 @@
       "significado": "cáncer"
   },
   {
+      "termino": "tvp",
+      "significado": "trombosis venosa profunda"
+  },
+  {
       "termino": "cag",
       "significado": "adenocarcinoma gastrico"
   },
@@ -323,6 +327,10 @@
       "termino": "bancomicina",
       "significado": "vancomicina"
   },
+  {
+      "termino": "banco",
+      "significado": "vancomicina"
+  }
   {
       "termino": "ampisulb",
       "significado": "ampicilina/sulbactam"
